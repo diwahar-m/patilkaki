@@ -1,0 +1,38 @@
+.main-container{
+    min-height:100vh; 
+    background-color: #C9F4AA; 
+    background-size: cover; 
+    
+}
+h1{
+    text-align:center;
+    margin-top:20px;
+    color:#1A4D2E;
+}
+
+ul{
+    width:100%;
+    flex-wrap:wrap; 
+    list-style-type: none; 
+    display:flex; 
+    justify-content: flex-start; 
+    align-items: start;
+}
+.but-con{
+    text-align:center;
+}
+.but3{
+    height:50px; 
+    width:100px; 
+    border-style: none;
+    font-size:17px;
+    padding:5px; 
+    border-radius: 10px; 
+    font-weight:bold;
+    background-color:#3C84AB; 
+    color:#F2921D; 
+
+}
+.but3:hover{
+    background-color: #362FD9;
+}

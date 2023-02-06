@@ -1,0 +1,28 @@
+{
+  "userDetails": [
+    {
+      "id": "1",
+      "name": "Diwahar",
+      "gender": "Male",
+      "email": "mdiwahar@gmail.com"
+    },
+    {
+      "id": "c7659493-55f9-4a09-9cab-75e60982a735",
+      "name": "Manoj",
+      "gender": "Male",
+      "email": "manoj@yahoo.com"
+    },
+    {
+      "id": "56857894-e7b3-432a-8160-ac4d680b6d47",
+      "name": "Ganesh singh",
+      "gender": "Male",
+      "email": "ganeshsingh@gmail.com"
+    },
+    {
+      "id": "e4655405-4263-43f3-ae97-48b65cfd521a",
+      "name": "ani",
+      "gender": "Female",
+      "email": "ani@gmail.com"
+    }
+  ]
+}

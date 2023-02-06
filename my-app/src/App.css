@@ -1,0 +1,19 @@
+
+.main-container{
+  min-height:100vh; 
+  background-color: #C9F4AA; 
+  background-size: cover; 
+  
+}
+h1{
+  text-align:center;
+  margin-top:20px;
+}
+ul{
+  width:100%;
+  flex-wrap:wrap; 
+  list-style-type: none; 
+  display:flex; 
+  justify-content: flex-start; 
+  align-items: start;
+}
